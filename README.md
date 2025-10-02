@@ -7,11 +7,7 @@ It provides APIs to fetch mood-based songs using MongoDB + Express.js.
 - Node.js
 - Express.js
 - MongoDB + Mongoose
-- ImageKit (for song images)
+- ImageKit (for songs)
 
-## ⚙️ Setup
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/DakshGoswami5/moodyplayer-backend.git
-   cd moodyplayer-backend
+## Live Demo 
+- https://moodyplayer-frontend.vercel.app/
